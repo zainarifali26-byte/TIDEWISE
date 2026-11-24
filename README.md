@@ -4,6 +4,8 @@
 
 Live demo: https://tidewise-finance.vercel.app
 
+![Tidewise overview](docs/screenshot.webp)
+
 > Concept app designed and built by [Zain Ali Arif](https://zainaliarif.com). The demo shows a fictional person's finances, generated in the browser. It is not connected to any bank, and no data leaves the device.
 
 ## Features
